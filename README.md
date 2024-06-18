@@ -1,4 +1,4 @@
-# Exercícios de Lógica de Programação
+# Exercícios de Lógica de Programação 🧠🤯😬
 
 Este repositório contém os exercícios de lógica de programação de vários cursos que estou fazendo. Os exercícios estão organizados por curso e por tópicos dentro de cada curso para facilitar a navegação e a manutenção.
 
