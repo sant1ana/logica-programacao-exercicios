@@ -1,6 +1,5 @@
 # Exercícios de Lógica de Programação 🧠🤯😬
 
-Este repositório reúne os exercícios feito por mim de lógica de programação. 
 
 **Nota:** Os exercícios serão adicionados gradualmente, à medida que forem concluídos.
 <br>
