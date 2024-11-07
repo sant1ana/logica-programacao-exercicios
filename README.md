@@ -1,12 +1,12 @@
 # Exercícios de Lógica de Programação 🧠🤯😬
 
-Este repositório reúne os exercícios de lógica de programação dos diversos cursos que estou realizando. Os exercícios estão organizados por curso e subdivididos por tópicos dentro de cada curso, proporcionando uma navegação mais simples e uma manutenção eficiente.
+Este repositório reúne os exercícios feito por mim de lógica de programação. 
 
 **Nota:** Os exercícios serão adicionados gradualmente, à medida que forem concluídos.
 <br>
 <br>
 
-## 📚 Cursos e Exercícios
+## 📚 Curso e Exercícios
 <br>
 
 ### Curso 1: **Curso completo de algoritmos e lógica de programação do professor Nelio Alves, utilizando o visualg.**
